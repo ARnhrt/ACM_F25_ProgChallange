@@ -1,4 +1,7 @@
 # SIXSEVEN (Easy)
+<br></br>
+[SIX SEVEN](PumpkinPete.png)
+<br></br>
 So like... six seven? Y'know?
 <br></br>
 Write a program that takes in user input. The expected input should be a single integer.
