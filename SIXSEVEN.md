@@ -7,7 +7,6 @@ If the number is 67, output:
 ### 67 Input
 'SIX SEVEN 🗣️ 🔥'
 
-If the number is not 67, randomly output 1 of 3 outputs shown below:
 ###
 'not the one'
 
