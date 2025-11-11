@@ -25,8 +25,8 @@ wish this was 67
 ```
 not a funny number
 ```
-
-Here's some example inputs/outputs:
+<br></br>
+<b>Here's some example inputs/outputs:</b>
 
 ### UserInput 1
 ```
