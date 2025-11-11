@@ -3,7 +3,7 @@
 -<b>EASY</b>-
 - [SIXSEVEN](SIXSEVEN.md)
 - 
-- <br></br>
+<br></br>
 -<b>MEDIUM</b>-
 - [Prime Names](Hangman.md)
 - [ASCII Art Printer](ASCII.md)
