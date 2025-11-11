@@ -3,7 +3,7 @@ David, Sarah, and Mike are all friends that share their video game collections. 
 <br></br>
 Initially, David has NBA2K26, Sarah has Wii Sports, and Mike has HALO Reach. Over time, the games are passed around between the friends and it can be hard to keep track of who has each game.
 <br></br>
-Given a sequence of requests indicating that a particular friend wants to play a particular game, determine who they have to borrow the game from.
+Given a sequence of requests indicating that a particular friend wants to play a particular game, determine who they have to borrow the game from. Try to <b>MAP</b> out the interactions so that the friends can finally keep track of their games!
 <br></br>
 The first line of input should contain a single integer which indicates the number of requests (R). Then R lines follow describing the requests. The lines will always be in the same format (<name> wants to play <game>).
 
