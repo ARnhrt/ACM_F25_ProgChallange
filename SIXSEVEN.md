@@ -1,6 +1,6 @@
 # SIXSEVEN (Easy)
 <br></br>
-[SIX SEVEN](PumpkinPete.png)
+[SIX SEVEN](sixseven.png)
 <br></br>
 So like... six seven? Y'know?
 <br></br>
