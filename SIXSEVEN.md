@@ -11,17 +11,17 @@ SIX SEVEN 🗣️ 🔥
 ```
 Otherwise, randomly print one of the three outputs shown below:
 
-### Input 1
+### Random Output 1
 ```
 not the one
 ```
 
-### Input 2
+### Random Output 2
 ```
 wish this was 67
 ```
 
-### Input 3
+### Random Output 3
 ```
 not a funny number
 ```
