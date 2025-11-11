@@ -4,7 +4,7 @@ So like... six seven? Y'know?
 Write a program that takes in user input. The expected input should be a single integer.
 <br></br>
 If the number is 67, output:
-###
+### 67 Input
 'SIX SEVEN 🗣️ 🔥'
 
 If the number is not 67, randomly output 1 of 3 outputs shown below:
