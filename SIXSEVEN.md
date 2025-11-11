@@ -5,7 +5,7 @@ Write a program that takes in user input. The expected input should be a single 
 <br></br>
 If the number is 67, output:
 
-### 67 Input
+###
 ```
 SIX SEVEN 🗣️ 🔥
 ```
