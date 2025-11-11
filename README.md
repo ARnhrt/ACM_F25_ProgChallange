@@ -1,11 +1,13 @@
 # ACM_F25_ProgChallenge
 ## Challenges:
--<b>EASY</b>-
+-<b>EASY (10 pts)</b>-
 - [SIXSEVEN](SIXSEVEN.md)
 - [Igpay](Igpay.md)
 <br></br>
--<b>MEDIUM</b>-
-- [Prime Names](Hangman.md)
-- [ASCII Art Printer](ASCII.md)
-- [Caesar Cipher Encoder/Decorder](Caesar.md)
-- [Dice Game](Die.md)
+-<b>MEDIUM (20 pts)</b>-
+- [Prime Names](PrimeNames.md)
+- [Quick Brown Fox](QuickBrownFox.md)
+- [Video Games](VideoGames.md)
+<br></br>
+-<b>HARD (30 pts)</b>-
+- [Bacon](Bacon.md)
