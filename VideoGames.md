@@ -8,13 +8,13 @@ Given a sequence of requests indicating that a particular friend wants to play a
 The first line of input should contain a single integer which indicates the number of requests (R). Then R lines follow describing the requests. The lines will always be in the same format (<name> wants to play <game>).
 
 ### Input
-`4
-david wants to play wii sports
-sarah wants to play wii sports
-mike wants to play halo reach
-mike wants to play nba2k26`
+`4\n
+david wants to play wii sports\n
+sarah wants to play wii sports\n
+mike wants to play halo reach\n
+mike wants to play nba2k26\n`
 ### Output
-`david borrows wii sports from sarah
-sarah borrows wii sports from david
-mike already has halo reach
-mike borrows nba2k26 from david`
+`david borrows wii sports from sarah\n
+sarah borrows wii sports from david\n
+mike already has halo reach\n
+mike borrows nba2k26 from david\n`
