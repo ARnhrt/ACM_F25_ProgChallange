@@ -9,7 +9,7 @@ The first line of input should contain a single integer which indicates the numb
 
 ### Input
 `4
-david wants to play wii sports<br />
+david wants to play wii sports  
 sarah wants to play wii sports
 mike wants to play halo reach
 mike wants to play nba2k26`
