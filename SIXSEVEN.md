@@ -9,26 +9,71 @@ If the number is 67, output:
 ```
 SIX SEVEN 🗣️ 🔥
 ```
+Otherwise, randomly print one of the three outputs shown below:
 
-###
-'not the one'
-
-###
-'wish this was 67'
-
-###
-'not a funny number'
-
-### Input
+### Input 1
 ```
-3
-The quick brown fox jumps over the lazy dog.
-ZYXW, vu TSR Ponm lkj ihgfd CBA.
-.,?!'" 92384 abcde FGHIJ
+not the one
 ```
-### Output
+
+### Input 2
 ```
-pangram
-missing eq
-missing klmnopqrstuvwxyz
+wish this was 67
+```
+
+### Input 3
+```
+not a funny number
+```
+
+Here's some example inputs/outputs:
+
+### UserInput 1
+```
+7
+```
+
+### Output 1
+```
+wish this was 67
+```
+
+### UserInput 2
+```
+67
+```
+
+### Output 2
+```
+SIX SEVEN 🗣️ 🔥
+```
+
+### UserInput 3
+```
+a
+```
+
+### Output 3
+```
+not a funny number
+```
+
+### UserInput 4
+```
+%$@%@*
+```
+
+### Output 4
+```
+not the one
+```
+
+### UserInput 5
+```
+243947
+```
+
+### Output 5
+```
+wish this was 67
 ```
