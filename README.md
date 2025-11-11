@@ -1,10 +1,10 @@
 # ACM_F25_ProgChallenge
 ## Challenges:
-<b>EASY</b>
+-<b>EASY</b>-
 - [SIXSEVEN](SIXSEVEN.md)
 - 
 - <br></br>
-<b>MEDIUM</b>
+-<b>MEDIUM</b>-
 - [Prime Names](Hangman.md)
 - [ASCII Art Printer](ASCII.md)
 - [Caesar Cipher Encoder/Decorder](Caesar.md)
