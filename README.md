@@ -1,6 +1,5 @@
 # ACM_F25_ProgChallenge
 ## Challenges:
-<br></br>
 -<b>EASY (10 pts)</b>-
 - [SIXSEVEN](SIXSEVEN.md)
 - [Igpay](Igpay.md)
