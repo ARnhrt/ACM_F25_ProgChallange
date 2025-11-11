@@ -2,7 +2,7 @@
 ## Challenges:
 -<b>EASY</b>-
 - [SIXSEVEN](SIXSEVEN.md)
-- 
+- [Igpay](Igpay.md)
 <br></br>
 -<b>MEDIUM</b>-
 - [Prime Names](Hangman.md)
